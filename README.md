@@ -4,12 +4,14 @@
 
 ## About Me :
 
-- 🏢 I assisted in the development of functional and non-functional requirements.
-- 🏢 I collaborated in the creation of documentation for various projects.
-- 🎓 I developed the Frontend and Backend in various company projects and systems, working with a multidisciplinary team.
-- 🎓 I optimized the website so that it has the best possible score in Google page speed.
-- 🏡 Increase the speed of the first load by 50%.
-- ⚡ I improved the SEO and accessibility of the pages I worked with.
+I am a Full-stack developer passionate about creating innovative and accessible user experiences by understanding and/or developing requirements and implementing business logic. In my role, I have contributed to the complete development of various projects, achieving functionality and performance of web apps.
+
+- I assisted in the development of functional and non-functional requirements.
+- I collaborated in the creation of documentation for various projects.
+- I developed the Frontend and Backend in various company projects and systems, working with a multidisciplinary team.
+- I optimized the website so that it has the best possible score in Google page speed.
+- Increase the speed of the first load by 50%.
+- I improved the SEO and accessibility of the pages I worked with.
 - I applied CI/CD in the projects I worked on.
 
 <br>
@@ -26,10 +28,20 @@
 
 <br>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+- Tyepscript
+- Javascript
+- PHP
+- Python
+- Node.js
+- React.js
+- Next.js
+- Nest.js
+- Laravel
+- TailwindCSS
+- Sass
+- MongoDB
+- MySQL
+- PostgreSQL
+- Contentful
+- Firebase
+- Supabase
