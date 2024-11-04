@@ -10,7 +10,6 @@ I am a Full-stack developer passionate about creating innovative and accessible 
 - I collaborated in the creation of documentation for various projects.
 - I developed the Frontend and Backend in various company projects and systems, working with a multidisciplinary team.
 - I optimized the website so that it has the best possible score in Google page speed.
-- Increase the speed of the first load by 50%.
 - I improved the SEO and accessibility of the pages I worked with.
 - I applied CI/CD in the projects I worked on.
 
