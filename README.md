@@ -1,6 +1,3 @@
-<div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
-</div>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jose Rotchen</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/joserot?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/joserot?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=joserot.repoName) <img src="https://komarev.com/ghpvc/?username=joserot" alt="joserot" />
@@ -21,7 +18,7 @@
 
 <br>
 
-[![@jose.rot](https://img.icons8.com/fluency/48/000000/instagram-new.png "@jose.rot")](https://www.instagram.com/jose.rot/)  [![@jose-rotchen](https://img.icons8.com/fluency/48/000000/linkedin.png "@jose-rotchen")](https://www.linkedin.com/in/jose-rotchen/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/josemariarot) [![@josemariarot]
+[![@jose.rot](https://img.icons8.com/fluency/48/000000/instagram-new.png "@jose.rot")](https://www.instagram.com/jose.rot/)  [![@jose-rotchen](https://img.icons8.com/fluency/48/000000/linkedin.png "@jose-rotchen")](https://www.linkedin.com/in/jose-rotchen/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/josemariarot) 
 
 <br>
 
